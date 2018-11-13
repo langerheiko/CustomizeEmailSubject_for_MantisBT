@@ -1,3 +1,5 @@
+Looking for a new maintainer. Work can be done at mantisbt-plugins/CustomizeEmailSubject.
+
 Customize Email Subject for MantisBT
 ====================================
 
